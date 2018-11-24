@@ -1,0 +1,2 @@
+# lobbywsquad.com.br
+servidor
